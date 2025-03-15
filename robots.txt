@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /my-account/
+Disallow: /private/
+Disallow: /thank-you/
+Disallow: /*?*
+
+Sitemap: https://botoxandfillers.in/sitemap.xml
